@@ -1,1 +1,10 @@
-
+body {
+        font-family: "游明朝";
+        padding: 100px;
+        line-height: 40px;
+      }
+      
+      h1 {
+        color: #CCCCCC;
+        font-size: 50px;
+      }
